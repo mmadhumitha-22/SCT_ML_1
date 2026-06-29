@@ -8,7 +8,6 @@ The objective is to build a Linear Regression model that predicts house prices b
 - Number of Bedrooms (BedroomAbvGr)
 - Number of Bathrooms (FullBath)
 
----
 
 ## 📂 Dataset
 House Prices - Advanced Regression Techniques Dataset
@@ -21,7 +20,6 @@ Input Features:
 - BedroomAbvGr
 - FullBath
 
----
 
 ## 🛠️ Technologies Used
 - Python
@@ -31,7 +29,7 @@ Input Features:
 - Scikit-learn
 - Jupyter Notebook
 
----
+
 
 ## 📊 Machine Learning Workflow
 1. Data Loading
@@ -43,7 +41,6 @@ Input Features:
 7. Model Evaluation
 8. Data Visualization
 
----
 
 ## 📈 Evaluation Metrics
 - Mean Absolute Error (MAE)
@@ -51,20 +48,17 @@ Input Features:
 - Root Mean Squared Error (RMSE)
 - R² Score
 
----
 
 ## 📷 Project Screenshots
 - Actual vs Predicted House Prices
 - Residual Plot
 
----
 
 ## 🎯 Conclusion
 The Linear Regression model successfully predicts house prices using selected features. The project demonstrates a complete machine learning workflow, from data preprocessing to model evaluation and visualization.
-
----
 
 ### Internship
 SkillCraft Technology – Machine Learning Internship
 
 Task 1: House Price Prediction using Linear Regression
+
